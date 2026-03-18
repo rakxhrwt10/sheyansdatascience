@@ -109,14 +109,26 @@
 
 ---
 
-## 🧭 AI Journey
+## 🚀 Developer Mindset
 
-```text
-2023 ─ Started Programming (C++)
-2024 ─ Learned Data Structures & Algorithms
-2025 ─ Entered Data Science (EDA, Pandas)
-2026 ─ Learning ML + GenAI  ← YOU ARE HERE 🔥
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Thinking-Growth%20Mindset-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Consistency-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Goal-AI%20Engineer-purple?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  💡 <b>"I don't just learn technology — I build the mindset to master it."</b>
+</p>
+
+---
+
+## ⚡ What Drives Me
+
+* 🔥 Solving real-world problems using data
+* 📊 Turning raw data into meaningful insights
+* 🤖 Exploring AI & building intelligent systems
+* 🚀 Improving every single day
 
 ---
 
@@ -158,5 +170,4 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=120&section=footer"/>
 </p>
-
 
