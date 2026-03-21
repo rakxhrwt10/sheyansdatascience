@@ -15,4 +15,4 @@ def BinarySearch(lst, target):
             j = mid - 1
 
     return False
-print(BinarySearch([1,2,3,4,5,6],7))
+print(BinarySearch([1,2,3,4,5,6],6))

@@ -12,3 +12,4 @@ def RotateArray(lst):
 
 # Example
 print(RotateArray([1,2,3,4,5]))
+
