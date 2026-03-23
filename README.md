@@ -1,30 +1,25 @@
-<!-- HEADER -->
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rakesh%20Rawat&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
-</p>
-
-<h3 align="center">🚀 AI/ML Engineer in Progress | 🤖 Gen AI Explorer</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Learning+Data+Science;Building+ML+Projects;Exploring+Generative+AI;Consistency+%3D+Success🔥"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rakxhrwt10&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
----
-
 # 🚀 AI/ML + Data Science Tracker – Rakesh Rawat
 
-> 🎯 Goal: Become AI/ML Engineer
-> 📅 Started: March 2026
-> 🔥 Focus: Consistency + Projects + Gen AI
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=AI%2FML+Engineer+in+Progress;Learning+Data+Science;Building+Projects;Consistency+%3D+Success🔥"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Consistency-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Goal-AI%20Engineer-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Learning-orange?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 📊 Progress Dashboard
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-60%25-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pandas-30%25-yellow?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-20%25-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ML-0%25-lightgrey?style=for-the-badge"/>
+</p>
 
 | Domain           | Status         | Progress |
 | ---------------- | -------------- | -------- |
@@ -42,6 +37,10 @@
 ---
 
 ## 🧠 Learning Roadmap
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F700FF&center=true&vCenter=true&lines=Python+%E2%9E%9D+Pandas+%E2%9E%9D+SQL+%E2%9E%9D+ML+%E2%9E%9D+GenAI+%E2%9E%9D+MLOps"/>
+</p>
 
 ### 🧩 Python
 
@@ -109,9 +108,12 @@
 
 ## 🚀 Projects
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&center=true&vCenter=true&lines=Building+Real+World+Projects;Fake+News+Detection;Airbnb+Analysis;GenAI+Apps"/>
+</p>
+
 ### 🧠 Fake News Detection
 
-* [x] Idea
 * [ ] Dataset
 * [ ] Cleaning
 * [ ] Model
@@ -121,7 +123,6 @@
 
 ### 📊 Airbnb Analysis
 
-* [x] Dataset
 * [ ] Cleaning
 * [ ] EDA
 * [ ] Visualization
@@ -167,12 +168,12 @@
 
 ## ⚡ Status
 
-🟢 Actively Learning
-🚀 Open to Internship Opportunities
-
----
+<p align="center">
+  <img src="https://img.shields.io/badge/Actively-Learning-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Open%20to-Internships-blue?style=for-the-badge"/>
+</p>
 
 <p align="center">
-🔥 <b>“Consistency + Projects = Success in Tech”</b>
+🔥 <b>"Consistency + Projects = Success in Tech"</b>
 </p>
 
