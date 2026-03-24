@@ -27,6 +27,7 @@ def missingNumber(lst):
 
 
 print(missingNumber([1, 2, 3, 5, 4]))
+# APPLe@@786  sql password
 
 
 
