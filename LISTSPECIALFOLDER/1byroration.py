@@ -16,3 +16,4 @@ def ro(lst:list):
 
 print(ro([1,2,3,4,5]))
 print(rotateLeft([10,20,30,40,50]))
+
