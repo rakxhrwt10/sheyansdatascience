@@ -53,6 +53,8 @@ def SecondMax(lst:list):
           secodMax=lst[l]
 
     return secodMax
+
+
           
           
 

@@ -22,3 +22,5 @@ def is_sorted(lst: list):
 #     return True
 
 print(is_sorted([12,13,14,15,16]))
+
+

@@ -12,4 +12,4 @@ def Swap(lst:list):
 
     return lst
 
-print(Swap([1,2,3,4]))
+print(Swap([1,2,3,4])) 
