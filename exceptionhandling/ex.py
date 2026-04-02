@@ -4,10 +4,16 @@ print(li)
 
 for l in li:
     try:
-        if l // 0 == 0:   # yeh hamesha error dega
+        if l // 2== 0:   # yeh hamesha error dega
             print("hello")
     except Exception as err:
-        print("zero division error")
+        print(f"zero division error{err}")
+
+    else:
+        print("there was no erro")
+
+    finally:
+        print("i will excute no matter what")
 
 
         
