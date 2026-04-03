@@ -1,20 +1,30 @@
-# synatax
+# # synatax
 
 
 
 
-f=open("new.txt")
+# f=open("new.txt")
 
 
-# print(f.read(50))
+# # print(f.read(50))
 
-# print(f.readlines())
-
-
-for line in f.readlines():
-
-    print(line)
+# # print(f.readlines())
 
 
-f.close()
+# for line in f.readlines():
+
+#     print(line)
+
+
+# f.close()
+
+
+
+
+f=open(r"C:\Users\pc\Desktop\Matplotlib\BARPLOT.ipynb")
+
+
+print(f.read())
+
+
 
