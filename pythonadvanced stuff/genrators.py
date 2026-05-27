@@ -5,18 +5,18 @@
 
 
 
-def my_genrator():
+# def my_genrator():
 
-    for i in range(0,4):
+#     for i in range(1,4):
 
-        return i
+#         return 1
     
 
 
-print(my_genrator()) # isme ke value mileg wo zero kyu return key use krte apna pura function break 1st value de deta hai
+# print(my_genrator()) # isme ke value mileg wo zero kyu return key use krte apna pura function break 1st value de deta hai
 
 
-#wit genrator
+#with genrator
 def myy_genrator():
 
     for i in range(0,4):
@@ -26,6 +26,7 @@ def myy_genrator():
 
 gen=myy_genrator()
 
+print(next(gen))
 print(next(gen))
 def myy_genrator():
 
@@ -45,50 +46,50 @@ print(next(genn))
 
 print(list(genn))
 
-#genrator comphression
+# #genrator comphression
 
 
 gencom=(x**2 for x in range(1,10))
 
 print(list(gencom))
 
-#decoratorats-->icing on cake😂
+# #decoratorats-->icing on cake😂
 
 
-def my_decorator(func):
-    def wrapper():
+# def my_decorator(func):
+#     def wrapper():
 
-        print("hello i print before")
-        func()
+#         print("hello i print before")
+#         func()
 
-        print("hello i print after")
-    return wrapper
+#         print("hello i print after")
+#     return wrapper
 
     
 
 
 
 
-@my_decorator
-def say_hello():
+# @my_decorator
+# def say_hello():
 
-    print("hello")
-
-
-say_hello()
+#     print("hello")
 
 
-#example
+# say_hello()
 
-def decorate(func):
-    def wrapper(a,b):
 
-        print("your two num add is : ")
+# #example
 
-        func(a,b)
+# def decorate(func):
+#     def wrapper(a,b):
 
-        print("thankyou for using us")
-    return wrapper
+#         print("your two num add is : ")
+
+#         func(a,b)
+
+#         print("thankyou for using us")
+#     return wrapper
 
         
 
@@ -98,34 +99,34 @@ def decorate(func):
 
 
 
-@decorate
-def addition(a,b):
+# @decorate
+# def addition(a,b):
 
 
-    print(a+b)
+#     print(a+b)
 
-addition(12,12)
-
-
-
+# addition(12,12)
 
 
 
 
 
 
-# def my_decorator(func):
-#     def wrapper():
-#         print("Before")
-#         func()
-#         print("After")
-#     return wrapper
 
-# @my_decorator
-# def say_hello():
-#     print("Hello")
 
-# say_hello()
+
+# # def my_decorator(func):
+# #     def wrapper():
+# #         print("Before")
+# #         func()
+# #         print("After")
+# #     return wrapper
+
+# # @my_decorator
+# # def say_hello():
+# #     print("Hello")
+
+# # say_hello()
 
 
 
